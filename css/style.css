@@ -13,6 +13,7 @@ background-color:#ECF0F5;
     top:150px; */
     color:#4682B4;
     font-weight:bold;
+  
 }
 .form-holder
 {
@@ -25,8 +26,8 @@ background-color:#ECF0F5;
 {
 list-style:none;
 position: relative;
-top:20%;
-text-align: center;
+top:10%;
+/* text-align: center; */
 }
 
 .form-select
@@ -47,30 +48,83 @@ text-align: center;
 .Remeber
 {
     font-size:15px;
+    position: relative;
+    left:35px;
+    top:10px;
 }
 .form-check
 {
-    position: relative;
-    right:25%;
+
     color:gray;
 
 }
 .form-check-input
 {
-    position: relative;
-    left:35%;
-    width:40px;
-    height:40px;
+    
+    width:30px;
+    height:30px;
     border:2px solid gray;
+    position: relative;
+    left:30px;
+   
 }
 .text-sm-center
 {
     color: #4682B4;
     font-weight:bold;
+   
+   
 }
 .btn-primary
 {
-    left:40%;
-    position: relative;
+    
+    position: relative; 
+    width:180px;
+    height:55px;
+    left:220px;
+    background-color: #286090;
+    bottom:10px;
+}
+.btn-primary:hover
+{
+    background-color: #193958;
+}
+.form-check  ul
+{
+    display: flex;
+    border-bottom:1px solid rgb(184, 183, 183);
+}
+.forgetpassword ul
+{
+display: flex;
+}
+.forgetpasswor 
+{
+    font-size:15px;
+    font-weight: 100;
+    
 
+
+}
+ a:hover{
+    color: inherit; 
+   
+}
+
+.forgetpassword img{
+    position: relative;
+    top:20px;
+    position: relative;
+    left:70px;
+    height:100px;
+    width:150px;
+}
+.right
+{
+    position: relative;
+    left:100px;
+}
+.col p
+{
+  text-align: center;
 }
