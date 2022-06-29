@@ -1,0 +1,76 @@
+
+.right-col
+{
+background-color:#ECF0F5;
+}
+.container
+{
+    background-color:#FEFEFE;
+}
+.para-holder
+{
+    /* position: relative;
+    top:150px; */
+    color:#4682B4;
+    font-weight:bold;
+}
+.form-holder
+{
+  
+    width:80%;
+    border-radius:0px;
+    font-size:5px;
+}
+.col ul
+{
+list-style:none;
+position: relative;
+top:20%;
+text-align: center;
+}
+
+.form-select
+{
+    height:60px;
+    border-radius:0px;
+}
+.form-email-holder
+{
+    height:60px;
+    border-radius:0px;
+    width:80%;
+    border-radius:0px;
+    position: relative;
+    left:10%;
+
+}
+.Remeber
+{
+    font-size:15px;
+}
+.form-check
+{
+    position: relative;
+    right:25%;
+    color:gray;
+
+}
+.form-check-input
+{
+    position: relative;
+    left:35%;
+    width:40px;
+    height:40px;
+    border:2px solid gray;
+}
+.text-sm-center
+{
+    color: #4682B4;
+    font-weight:bold;
+}
+.btn-primary
+{
+    left:40%;
+    position: relative;
+
+}
