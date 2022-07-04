@@ -9,8 +9,7 @@ background-color:#ECF0F5;
 }
 .para-holder
 {
-    /* position: relative;
-    top:150px; */
+  
     color:#4682B4;
     font-weight:bold;
   
@@ -75,17 +74,17 @@ top:10%;
    
    
 }
-.btn-primary
+
+
+.btn-login
 {
-    
-    position: relative; 
-    width:180px;
-    height:55px;
-    left:220px;
+   
     background-color: #286090;
-    bottom:10px;
+   
+
 }
-.btn-primary:hover
+
+.btn-login:hover
 {
     background-color: #193958;
 }
@@ -127,4 +126,28 @@ display: flex;
 .col p
 {
   text-align: center;
+}
+.Remember-btn
+{
+    position: relative;
+    left:40px;
+    top:20px;
+}
+.btn-remember
+{
+    position: relative;
+    left:30px;
+    top:10px;
+}
+.btn-login
+{
+    position: relative;
+    left:50px;
+    height:60px;
+    width:170px;
+}
+
+.remeber-login-wrapper
+{
+    margin: 20px;
 }
